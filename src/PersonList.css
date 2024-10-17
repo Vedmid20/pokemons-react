@@ -1,0 +1,23 @@
+tr{
+    transition: .3s ease;
+}
+
+tr:hover{
+    background-color: rgb(233, 233, 233);
+}
+
+a{
+    text-decoration: none;
+    font-size: 14px;
+    color: rgb(48, 48, 48);
+}
+
+.image{
+    border-left: 2px solid rgba(89, 89, 89, 0.437);
+    border-radius: 2px;
+}
+
+th{
+    font-size: 30px;
+    background-color:white;
+}
